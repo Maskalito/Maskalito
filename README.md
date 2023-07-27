@@ -8,6 +8,7 @@
 ## 🛠 Skills
 ![C](https://img.shields.io/badge/C-136CD2?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
