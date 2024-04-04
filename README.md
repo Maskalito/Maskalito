@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 - 📍Lyon, 69700, Rhône-Alpes
-- 💻 Currently searching for a internship...
+- 💻 Currently working...
 - 👨‍🎓 2ND YEAR EPITECH student
 
 ## 🛠 Skills
