@@ -3,7 +3,7 @@
 ## 🚀 About me
 - 📍Lyon, 69700, Rhône-Alpes
 - 💻 Currently working...
-- 👨‍🎓 2ND YEAR EPITECH student
+- 👨‍🎓 3RD YEAR EPITECH student
 
 ## 🛠 Skills
 ![C](https://img.shields.io/badge/C-136CD2?style=for-the-badge&logo=c&logoColor=white)
