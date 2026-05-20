@@ -27,7 +27,7 @@
 
 ## 👋 About me
 
-- 🎓 4th year tech student at Epitech Lyon (5-year engineering program)
+- 🎓 5th year tech student at Epitech Lyon (5-year engineering program)
 - 🍁 Exchange student at Université Laval, Québec
 - 💻 Orientation: Fullstack / Backend
 - 🏢 Intern at **AgileFlow** 2023 — `Node.js` `TypeScript` `PostgreSQL` `Security`
@@ -45,7 +45,6 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 **Frontend**
 
@@ -61,7 +60,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -118,24 +116,20 @@ Weather app with city search, real-time conditions display and day/night detecti
 
 ## 📄 Resume
 
-> ⏳ Resume being updated — coming soon.
-
-[![View my LinkedIn](https://img.shields.io/badge/View_my_LinkedIn_profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-barrier/)
-
-<!--
 <div align="center">
   <a href="./cv/CV_Clement_Barrier.pdf">
-    <img src="./cv/cv_preview.png" alt="Resume Preview" width="500"/>
+    <img src="https://cdn.discordapp.com/attachments/884470494613631006/1506690759351603290/image.png?ex=6a0f2e9d&is=6a0ddd1d&hm=e06c558d2ba36e6f15bbc89cc414ea810fa24298d3a4cc50a9943c93049dcb6e&)" alt="Resume Preview" width="500"/>
     <br/>
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 </div>
--->
+
+[![View my LinkedIn](https://img.shields.io/badge/View_my_LinkedIn_profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-barrier/)
 
 ---
 
 <div align="center">
 
-*Open to opportunities in Lyon and remote · Available from May 18*
+*Open to opportunities in Lyon and remote · Available from June 2026*
 
 </div>
