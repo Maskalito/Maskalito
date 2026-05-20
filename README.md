@@ -102,18 +102,6 @@ Weather app with city search, real-time conditions display and day/night detecti
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maskalito&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maskalito&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 ## 📄 Resume
 
 <div align="center">
